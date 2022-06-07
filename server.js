@@ -16,7 +16,7 @@ const config = {
     baseURL: 'https://portfolio-glowackp.uc.r.appspot.com',
     clientID: 'NuNWPctWh5xuENnGDCEPMCaAlsr5R9dL',
     issuerBaseURL: 'https://cs493-spring2022.us.auth0.com',
-    secret: 'D8A5XbefRhbJLc5WbxjqNbLpFUnin6QEjibzWbCFVcUXUZnDNSgSWaBEi4dkxdYM'
+    secret: '[insert_secret_here]'
 };
 
 // auth router attaches /login, /logout, and /callback routes to the baseURL
